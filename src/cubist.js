@@ -145,12 +145,6 @@ class CubistTwodee {
   }
 }
 
-// memo:
-//   Animation:
-//     animation のときに path を入れ替えて見た目が整うようにできると尚良し
-//       => dizitise 前にて 反時計回りから時計回りになる瞬間を拾ってくる必要あり？かな。
-//     animation は90degreeくらいにする
-
 // cube
 class CubistFace {
   #isFront; #rotate;
